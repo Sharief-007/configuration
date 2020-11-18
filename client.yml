@@ -1,0 +1,17 @@
+dev:
+  name: sharief
+  tech: Oracle Java 15 latest
+  lts: Java11
+  age: 20
+tech:
+  frame: spring
+  fav: spring-boot 
+  other-frame: hadoop
+  current: spring-cloud
+web:
+  ui: complex
+  frame: vaadin
+  other: vuejs
+  routers: vue-router,vaadin-router
+
+
